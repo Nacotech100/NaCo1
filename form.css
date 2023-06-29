@@ -1,0 +1,43 @@
+#email {
+  height: 46px;
+  width: 78%;
+  border-radius: 46px;
+  background-color: white;
+  border-color: blue;
+  margin-bottom: 20px;
+}
+#name {
+  height: 46px;
+  width: 78%;
+  border-radius: 46px;
+  background-color: white;
+  border-color: blue;
+  margin-bottom: 20px;
+}
+#message {
+  height: 140px;
+  width: 78%;
+  border-radius: 5px;
+  background-color: white;
+  border-color: blue;
+  margin-bottom: 20px;
+}
+#btn {
+  height: 46px;
+  width: 24%;
+  border-radius: 7px;
+  background-color: white;
+  border-color: blue;
+  margin-bottom: 20px;
+}
+form {
+  margin-top: 40px;
+  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+.tex {
+  margin-top: 12px;
+  margin-bottom: 15px;
+  text-align: left;
+}
